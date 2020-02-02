@@ -6,7 +6,8 @@ To do this, run:
 Welcome to Fire Fighers
 html>
 <head>
-<title>TravelBooking</title>
+<title>FirefightersTravelBooking</title>
+  
 <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
@@ -19,7 +20,7 @@ html>
   <h1 style="color: #ffffff;">TravelBooking</h1>
   <html>
 <head>
-<title>TravelBooking</title>
+<title>FireFightersTravelBooking</title>
 <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
@@ -37,6 +38,7 @@ html>
     <label for="lname">Source:</label>
     <input id="source" type="date" name="Source" class="form-control form-control-lg">
   </div>
+  
   <div class="col-sm-4" style="margin: auto; padding-top: 5%;">
     <img src="bus.png" style="margin-left: auto; margin-right: auto; display: block;" width="60%" alt="some image here">
   </div>
